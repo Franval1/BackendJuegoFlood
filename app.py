@@ -5,4 +5,5 @@ def main():
 main()
 
 def hola():
-    print("hola")
+    a = print("hola")
+    return a
